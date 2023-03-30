@@ -1,4 +1,7 @@
 :root{
     --corfundo: #FFFFFF; 
     --corbody: #E6DD09;
-
+}
+.imagemP{
+    height: 200px;
+}
